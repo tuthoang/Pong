@@ -1,8 +1,5 @@
 """
 Created by Timmy Hoang
-EK 128 Final Project
-Prof Carruthers
-PONG GAME
 """
 import pygame
 import time
